@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\bin\Debug\EFCode1Strategies.exe.config
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\bin\Debug\EFCode1Strategies.exe
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\bin\Debug\EFCode1Strategies.pdb
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\obj\Debug\EFCode1Strategies.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\obj\Debug\EFCode1Strategies.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\obj\Debug\EFCode1Strategies.exe
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\obj\Debug\EFCode1Strategies.pdb
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\bin\Debug\ClassLibrary2.dll
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\bin\Debug\ClassLibrary2.pdb
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\bin\Debug\ClassLibrary2.dll.config
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\source\repos\EFCode1Strategies\EFCode1Strategies\obj\Debug\EFCode1Strategies.csproj.CopyComplete
